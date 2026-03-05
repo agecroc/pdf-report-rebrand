@@ -1,0 +1,4 @@
+interface
+  displayname PDF Report Rebrand
+  shortdescription Transform PDF reports into branded assets, PowerPoint decks, and animated YouTube videos
+  defaultprompt Use pdf-report-rebrand to ingest a full PDF report, reinterpret the content in SMAART Company voice, rebrand all visuals (cover, colors, charts, graphics) to match brand guidelines, produce the final branded PDF report, distill key insights into a branded PowerPoint slide deck for employee education, export slides to Notlm for animation, and publish the animated video to YouTube.
